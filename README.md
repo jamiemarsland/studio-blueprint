@@ -12,7 +12,7 @@ A WordPress Blueprint for a small creative agency site (home page, three portfol
 
 ## Default install + content
 
-`blueprint-default.json` leaves WordPress as a fresh install (default theme, site title, front page and menus) and only adds the content: the Home, Contact, Our work and The team pages, the three portfolio posts, and all images uploaded to the Media Library. Content uses the local uploads, not GitHub URLs, and the posts get their featured images.
+`blueprint-default.json` leaves WordPress as a fresh install (default theme, site title, front page and menus) and adds only starter content: empty Home, Contact, Our work and The team pages, ready to build during the course; the three portfolio posts with their text and featured images; and all images uploaded to the Media Library.
 
 [Open default install in WordPress Studio](https://wp.com/open?deep_link=add-site%3Fblueprint_url%3Dhttps%253A%252F%252Fraw.githubusercontent.com%252Fjamiemarsland%252Fstudio-blueprint%252Fmain%252Fblueprint-default.json)
 
